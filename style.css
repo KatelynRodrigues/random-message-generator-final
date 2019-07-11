@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #8bb6f9;
+}
+
+
+#header1 {
+  background-color: turquoise;
+  border: 5px solid gold;
+  padding: 20px;
+  margin-bottom: 40px;
+  color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 60px;
+}
+
+button {
+  margin: 15px;
+  padding: 12px 18px;
+  border: 1px solid magenta;
+  background: magenta;
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#intro {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#song {
+  color: white;
+  font-family: 'Bungee', cursive;
+  font-weight: 80px;
+}
